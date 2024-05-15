@@ -1,0 +1,37 @@
+{
+    "@@locale": "ko",
+
+    "hiragana": "히라가나",
+    "katakana": "가타카나",
+    "letter": "글자",
+    "pronunciation": "발음",
+    "showAnswer": "정답 확인",
+
+    "titleSetting": "설정",
+    "language": "언어",
+    "theme" : "테마",
+    "termsAndConditions": "이용약관",
+    "privacyPolicy": "개인정보보호정책",
+    "resetPreferences" : "설정 초기화",
+    "check" : "확인",
+    "open" : "열기",
+    "reset" : "초기화",
+
+    "korean" : "한국어",
+    "english" : "영어",
+
+    "system" : "시스템",
+    "light" : "라이트",
+    "dark" : "다크",
+
+    "discard" : "취소",
+    "confirm" : "확인",
+
+    "yes" : "네",
+    "no" : "아니요",
+
+    "msgResetConfirmation" : "설정을 초기화하시겠습니까? 복구할 수 없습니다.",
+    "msgNoFilterSelected" : "하나 이상의 문제유형 필터를 선택해주세요.",
+
+    "developerInfo" : "lee@wonj.in"
+}

@@ -1,4 +1,4 @@
-package com.example.mobile
+package air.ganaRandomBbopkki
 
 import io.flutter.embedding.android.FlutterActivity
 

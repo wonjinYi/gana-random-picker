@@ -1,0 +1,37 @@
+{
+  "@@locale": "en",
+  
+  "hiragana": "Hiragana",
+  "katakana": "Katakana",
+  "letter": "Letter",
+  "pronunciation": "Pronunciation",
+  "showAnswer": "Show Answer",
+
+  "titleSetting" : "Settings",
+  "language": "Language",
+  "theme" : "Theme",
+  "termsAndConditions": "Terms and Conditions",
+  "privacyPolicy": "Privacy Policy",
+  "resetPreferences" : "Reset Preferences",
+  "check" : "Check",
+  "open" : "Open",
+  "reset" : "Reset",
+
+  "korean" : "Korean",
+  "english" : "English",
+
+  "system" : "System",
+  "light" : "Light",
+  "dark" : "Dark",
+
+  "discard" : "Discard",
+  "confirm" : "Confirm",
+
+  "yes" : "Yes",
+  "no" : "No",
+
+  "msgResetConfirmation" : "Are you sure you want to reset your preferences? It can not be undone.",
+  "msgNoFilterSelected" : "Please select a filter",
+
+  "developerInfo" : "lee@wonj.in"
+}
